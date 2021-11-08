@@ -5,18 +5,19 @@ const Person = require('./person');
 // const PersonJobBuilder = require('./person-job-builder');
 module.exports = class PersonBuilder {
   constructor(person = new Person()) {
-    this.person = person
+    this.person = person;
+    this.PersonAddressBuilder = require('./person-address-builder')
+    this.PersonJobBuilder = require('./person-job-builder')
   }
 
   get lives() {
-    console.log(this.person);
-    return new (require('./person-address-builder')) // if you want spearte classes
+    return new this.PersonAddressBuilder(this.person) // if you want spearte classes
     // return new PersonAddressBuilder(this.person) // uses all code in one file
 
   }
 
   get works() {
-    return new (require('./person-job-builder'))
+    return new this.PersonJobBuilder(this.person)
     // return new PersonJobBuilder(this.person)
   }
 
