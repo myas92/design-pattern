@@ -1,4 +1,4 @@
-# Prototype pattern
+# Prototype pattern (Creational)
 
 It creates new objects from the existing objects.
 

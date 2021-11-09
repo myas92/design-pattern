@@ -1,4 +1,4 @@
-# Builder
+# Builder (Creational)
 It constructs complex objects from simple objects.
 
 ## Wikipedia Description

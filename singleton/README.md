@@ -1,4 +1,4 @@
-# Singleton pattern
+# Singleton pattern (Creational)
 
 It ensures that there’s only one object created for a particular class.
 
