@@ -9,11 +9,11 @@ Design Patterns are the solutions to commonly occurring problems in software des
 
 ### Creational Design Patterns
 
-- Factory Method
-- Abstract Factory
-- Builder
-- Prototype
-- Singleton
+- [Factory Method](https://github.com/myas92/design-pattern/tree/master/factory-method)
+- [Abstract Factory](https://github.com/myas92/design-pattern/tree/master/abstract-factory)
+- [Builder](https://github.com/myas92/design-pattern/tree/master/builder)
+- [Prototype](https://github.com/myas92/design-pattern/tree/master/prototype)
+- [Singleton](https://github.com/myas92/design-pattern/tree/master/singleton)
 
 ### Structural Design Patterns
 
@@ -39,4 +39,4 @@ Design Patterns are the solutions to commonly occurring problems in software des
 - Template Method
 
 ## Helpful link
-[Design_pattern](https://medium.com/dhiwise/advanced-javascript-design-patterns-6812f3286585)
+ - [Design pattern](https://medium.com/dhiwise/advanced-javascript-design-patterns-6812f3286585)
