@@ -12,5 +12,5 @@ Another scenario is refactoring in which parts of the program are rewritten with
 
 ## Helpful Links
 
-[dev to](https://dev.to/wecarrasco/adapter-pattern-with-javascript-4lgi)
-[dofactory](https://www.dofactory.com/javascript/design-patterns/adapter)
+- [dev to](https://dev.to/wecarrasco/adapter-pattern-with-javascript-4lgi)
+- [dofactory](https://www.dofactory.com/javascript/design-patterns/adapter)
