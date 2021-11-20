@@ -1,4 +1,4 @@
-# Bridge (Creational)
+# Bridge (Structural)
 It separates the abstraction from the implementation so that the two can vary independently.
 
 ## Wikipedia Description
