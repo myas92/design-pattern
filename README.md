@@ -39,4 +39,5 @@ Design Patterns are the solutions to commonly occurring problems in software des
 - Template Method
 
 ## Helpful link
+
  - [Design pattern](https://medium.com/dhiwise/advanced-javascript-design-patterns-6812f3286585)
